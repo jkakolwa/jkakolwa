@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jkakolwa
-- 👀 I’m interested in ... AI, Agriculture (Vertical Farming), Graphic, Python, C#, Gaming
+- 👀 I’m interested in ... Graphic, Python, C#, Gaming
 - 🌱 I’m currently learning ... Graphic, Gaming, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
