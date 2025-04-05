@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jkakolwa
-- 👀 I’m interested in ... Graphic, Python, C#,C++,GDScript Gaming
-- 🌱 I’m currently learning ... Graphic, Gaming, C#
+- 👀 I’m interested in ... 3D Graphic, Python, C#, C++, GDScript, Gaming
+- 🌱 I’m currently learning ... 3D Graphic, Gaming, GDScirpt 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
